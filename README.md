@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vskr-23/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/vskr-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vskr-23/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
