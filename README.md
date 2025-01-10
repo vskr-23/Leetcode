@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vskr-23/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vskr-23/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
 |  |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/vskr-23/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/vskr-23/Leetcode/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/vskr-23/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vskr-23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
