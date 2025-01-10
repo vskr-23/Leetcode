@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vskr-23/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vskr-23/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vskr-23/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vskr-23/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
