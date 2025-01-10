@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vskr-23/Leetcode/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/vskr-23/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/vskr-23/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vskr-23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vskr-23/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vskr-23/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vskr-23/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
