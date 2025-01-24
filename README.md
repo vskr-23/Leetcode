@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/vskr-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/vskr-23/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Bit Manipulation
@@ -198,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vskr-23/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
