@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vskr-23/Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Greedy
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
