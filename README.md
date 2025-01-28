@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [1894-merge-strings-alternately](https://github.com/vskr-23/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vskr-23/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vskr-23/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/vskr-23/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Bit Manipulation
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
