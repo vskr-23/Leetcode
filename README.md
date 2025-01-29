@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vskr-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vskr-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vskr-23/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vskr-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
