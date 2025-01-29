@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/vskr-23/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/vskr-23/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/vskr-23/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vskr-23/Leetcode/tree/master/0459-repeated-substring-pattern) |
