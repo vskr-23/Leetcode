@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1580-shuffle-the-array](https://github.com/vskr-23/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vskr-23/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vskr-23/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/vskr-23/Leetcode/tree/master/1646-kth-missing-positive-number) |
