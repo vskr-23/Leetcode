@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vskr-23/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vskr-23/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vskr-23/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/vskr-23/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/vskr-23/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0890-lemonade-change](https://github.com/vskr-23/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vskr-23/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vskr-23/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
