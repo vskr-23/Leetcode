@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vskr-23/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/vskr-23/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vskr-23/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vskr-23/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Matrix
 |  |
 | ------- |
