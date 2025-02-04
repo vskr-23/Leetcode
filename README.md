@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vskr-23/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vskr-23/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/vskr-23/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vskr-23/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vskr-23/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vskr-23/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vskr-23/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [2262-solving-questions-with-brainpower](https://github.com/vskr-23/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
