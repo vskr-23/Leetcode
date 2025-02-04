@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vskr-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/vskr-23/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vskr-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vskr-23/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vskr-23/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [1894-merge-strings-alternately](https://github.com/vskr-23/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vskr-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vskr-23/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vskr-23/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
