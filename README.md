@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vskr-23/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vskr-23/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vskr-23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vskr-23/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vskr-23/Leetcode/tree/master/0389-find-the-difference) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vskr-23/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vskr-23/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
