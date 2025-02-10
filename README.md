@@ -304,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vskr-23/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
