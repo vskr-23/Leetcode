@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/vskr-23/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vskr-23/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vskr-23/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vskr-23/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/vskr-23/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2411-spiral-matrix-iv](https://github.com/vskr-23/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/vskr-23/Leetcode/tree/master/0584-find-customer-referee) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
