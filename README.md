@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vskr-23/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vskr-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vskr-23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vskr-23/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/vskr-23/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Binary Search
@@ -333,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
