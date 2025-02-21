@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vskr-23/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vskr-23/Leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/vskr-23/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vskr-23/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/vskr-23/Leetcode/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
