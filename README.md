@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vskr-23/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/vskr-23/Leetcode/tree/master/0952-word-subsets) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vskr-23/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vskr-23/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vskr-23/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vskr-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -334,11 +337,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/vskr-23/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vskr-23/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/vskr-23/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vskr-23/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
