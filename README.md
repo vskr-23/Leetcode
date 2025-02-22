@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vskr-23/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/vskr-23/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/vskr-23/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/vskr-23/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
 ## Design
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vskr-23/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/vskr-23/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
