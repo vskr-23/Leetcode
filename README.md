@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/vskr-23/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vskr-23/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/vskr-23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vskr-23/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vskr-23/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/vskr-23/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/vskr-23/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vskr-23/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/vskr-23/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vskr-23/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vskr-23/Leetcode/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/vskr-23/Leetcode/tree/master/2107-find-unique-binary-string) |
