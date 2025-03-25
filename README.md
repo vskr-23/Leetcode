@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/vskr-23/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vskr-23/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vskr-23/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/vskr-23/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/vskr-23/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vskr-23/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vskr-23/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/vskr-23/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vskr-23/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/vskr-23/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vskr-23/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/vskr-23/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -451,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vskr-23/Leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vskr-23/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/vskr-23/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
