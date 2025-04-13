@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/vskr-23/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vskr-23/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/vskr-23/Leetcode/tree/master/2050-count-good-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/vskr-23/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vskr-23/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/vskr-23/Leetcode/tree/master/0044-wildcard-matching) |
+| [2050-count-good-numbers](https://github.com/vskr-23/Leetcode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
