@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/vskr-23/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/vskr-23/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vskr-23/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vskr-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/vskr-23/Leetcode/tree/master/0198-house-robber) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/vskr-23/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vskr-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vskr-23/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vskr-23/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vskr-23/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
