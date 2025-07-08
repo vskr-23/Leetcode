@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/vskr-23/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/vskr-23/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vskr-23/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
 | [2262-solving-questions-with-brainpower](https://github.com/vskr-23/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vskr-23/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vskr-23/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vskr-23/Leetcode/tree/master/2050-count-good-numbers) |
+| [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
 | [3227-find-missing-and-repeated-values](https://github.com/vskr-23/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vskr-23/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/vskr-23/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/vskr-23/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vskr-23/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
