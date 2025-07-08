@@ -4,18 +4,16 @@ public:
         int n=height.size();
         int left=0;
         int right=n-1;
-        int max_area=0;
+        int maximum_area=0;
         while(left<right){
-            int lower=height[left]<=height[right]?left:right;
-            int area=(right-left)*height[lower];
-            max_area=max(max_area,area);
-            if(lower==left){
+            int minimum=min(height[left],height[right]);
+            maximum_area=max(maximum_area,minimum*(right-left));
+            if(height[left]<height[right]){
                 left++;
-            }
-            else{
+            }else{
                 right--;
             }
         }
-        return max_area;
+        return maximum_area;
     }
 };
