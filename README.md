@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/vskr-23/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vskr-23/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vskr-23/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vskr-23/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/vskr-23/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vskr-23/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/vskr-23/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
