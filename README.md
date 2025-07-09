@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vskr-23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/vskr-23/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/vskr-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/vskr-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vskr-23/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vskr-23/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/vskr-23/Leetcode/tree/master/0049-group-anagrams) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vskr-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/vskr-23/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vskr-23/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
