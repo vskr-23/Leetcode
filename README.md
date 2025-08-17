@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vskr-23/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/vskr-23/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/vskr-23/Leetcode/tree/master/1448-maximum-69-number) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vskr-23/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vskr-23/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/vskr-23/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vskr-23/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/vskr-23/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vskr-23/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/vskr-23/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
