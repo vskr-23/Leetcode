@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/vskr-23/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1580-shuffle-the-array](https://github.com/vskr-23/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vskr-23/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vskr-23/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vskr-23/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/vskr-23/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/vskr-23/Leetcode/tree/master/1651-shuffle-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vskr-23/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vskr-23/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/vskr-23/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vskr-23/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/vskr-23/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vskr-23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vskr-23/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vskr-23/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Union Find
 |  |
