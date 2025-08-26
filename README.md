@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/vskr-23/Leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vskr-23/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0498-diagonal-traverse](https://github.com/vskr-23/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/vskr-23/Leetcode/tree/master/0661-image-smoother) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vskr-23/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/vskr-23/Leetcode/tree/master/0890-lemonade-change) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vskr-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vskr-23/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vskr-23/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/vskr-23/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/vskr-23/Leetcode/tree/master/0661-image-smoother) |
 | [1036-rotting-oranges](https://github.com/vskr-23/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vskr-23/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vskr-23/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vskr-23/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/vskr-23/Leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/vskr-23/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/vskr-23/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/vskr-23/Leetcode/tree/master/2048-build-array-from-permutation) |
