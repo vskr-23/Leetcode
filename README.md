@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/vskr-23/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vskr-23/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/vskr-23/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vskr-23/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/vskr-23/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vskr-23/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vskr-23/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vskr-23/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vskr-23/Leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vskr-23/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/vskr-23/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
