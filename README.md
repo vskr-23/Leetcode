@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vskr-23/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0661-image-smoother](https://github.com/vskr-23/Leetcode/tree/master/0661-image-smoother) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vskr-23/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0830-largest-triangle-area](https://github.com/vskr-23/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/vskr-23/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vskr-23/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0932-monotonic-array](https://github.com/vskr-23/Leetcode/tree/master/0932-monotonic-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vskr-23/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vskr-23/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/vskr-23/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0830-largest-triangle-area](https://github.com/vskr-23/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/vskr-23/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/vskr-23/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/vskr-23/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vskr-23/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Brainteaser
 |  |
