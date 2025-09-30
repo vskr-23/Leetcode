@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/vskr-23/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vskr-23/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vskr-23/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/vskr-23/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vskr-23/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/vskr-23/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/vskr-23/Leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vskr-23/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vskr-23/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/vskr-23/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vskr-23/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/vskr-23/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/vskr-23/Leetcode/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/vskr-23/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vskr-23/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vskr-23/Leetcode/tree/master/3447-clear-digits) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vskr-23/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vskr-23/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vskr-23/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
